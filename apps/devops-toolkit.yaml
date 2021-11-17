@@ -17,5 +17,5 @@ spec:
     image:
       tag: 2.9.9
     ingress:
-      host: staging.devops-toolkit.scspa2527652002.nip.io
+      host: staging.devops-toolkit.192.168.49.2.nip.io
 
